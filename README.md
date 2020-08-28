@@ -1,6 +1,8 @@
 # lambdaprojects
 Build week projects created at the end of each unit
 
+---
+
 Project 1
 
 Why are teachers leaving the classroom? 
@@ -17,6 +19,8 @@ Hosting sites associated with this reserch:
 
 
 Other repos associated with this research:  https://github.com/jproctor-rebecca/jproctor-rebecca.github.io
+
+---
 
 Project 2
 
