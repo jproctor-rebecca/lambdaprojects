@@ -5,5 +5,10 @@ Project 1
 National media reports of teachers leaving the classroom in mass. The question is why? What are the key issues that make teachers feel it is impossible to remain in the classroom? In a sampling of public data, we will look at this issue and draw comparisons to the national issue.
 
 Hosting sites associated with this reserch:
-Medium - https://medium.com/@jproctor.m.ed.tn/why-are-teachers-leaving-the-classroom-749f4af7fb7
-Digging into Data - https://jproctor-rebecca.github.io/
+
+1. Medium - https://medium.com/@jproctor.m.ed.tn/why-are-teachers-leaving-the-classroom-749f4af7fb7
+
+2. Digging into Data - https://jproctor-rebecca.github.io/
+
+
+Other repos associated with this research:  https://github.com/jproctor-rebecca/jproctor-rebecca.github.io
