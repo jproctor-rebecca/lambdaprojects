@@ -43,6 +43,6 @@ Other repos associated with this research:  https://github.com/jproctor-rebecca/
 
 ---
 
-Projecj 3
+Project 3
 
 In progress...
