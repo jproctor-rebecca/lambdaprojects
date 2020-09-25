@@ -36,7 +36,7 @@ In the continued exploration of the question of why teachers are leaving classro
 
 Hosting sites associated with this reserch:
 
-1. Medium - https://medium.com/@jproctor.m.ed.tn/are-teacher-survey-responses-correlated-with-the-type-of-school-in-which-they-work
+1. Medium - https://medium.com/@jproctor.m.ed.tn/are-teacher-survey-responses-correlated-with-the-type-of-school-in-which-they-work-cb69b4d4a7a6
 
 2. Digging into Data - https://jproctor-rebecca.github.io/
 
