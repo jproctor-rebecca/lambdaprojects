@@ -1,5 +1,5 @@
-# lambdaprojects
-Build week projects created at the end of each unit
+# Projects
+Past and current real world individual and team projects applying data science principles
 
 ---
 
@@ -207,5 +207,14 @@ Alexander Barriga, Taylor Curran, Regina Dircio, Robert Guiffre, Thomas Phillips
 
 Project 5
 
-In Progress...
+In Progress...cross-functional product development team
+
+---
+
+Project 6
+
+In Progress...independent contractor, State of Tennessee
+
+---
+
 
