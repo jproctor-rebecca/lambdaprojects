@@ -265,7 +265,7 @@ Associate Project Lead
 Technical Project Lead
 -Ben Lopez 
 
-**Web Developers
+**Web Developers**
 -[David Hays](https://github.com/purplehays09), B/E
 -[Melissa Longenberger](https://github.com/melissa-24), F/E
 -[Andre Michalowski](https://github.com/andremichalowski), B/E
@@ -274,14 +274,14 @@ Technical Project Lead
 -[Jonathan Warner](https://github.com/jonivander), F/E
 
 
-**Data Scientists
+**Data Scientists**
 -[Sean Byrne](https://github.com/ssbyrne89), B/E
 -[Henry Gultom](https://github.com/henryspg), Data Extraction
 -[RJProctor](https://github.com/jproctor-rebecca), Data Processing, Model, & Visualization
 -[Tomas Phillips](https://github.com/tomasphillips), Data Collection
 
 
-**Team Members and Roles:
+**Team Members and Roles:**
 
 BLopez
 
