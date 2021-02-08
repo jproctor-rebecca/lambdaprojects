@@ -11,7 +11,7 @@ Colab link:  https://github.com/jproctor-rebecca/lambdaprojects/blob/master/WhyA
 
 Source data (zip file): https://github.com/jproctor-rebecca/lambdaprojects/blob/master/Teacher_Core_School_Consolidated_TN.zip
 
-National media reports of teachers leaving the classroom in mass. The question is why? What are the key issues that make teachers feel it is impossible to remain in the classroom? In a sampling of public data, we will look at this issue and draw comparisons to the national issue.
+**National media reports of teachers leaving the classroom in mass. The question is why? What are the key issues that make teachers feel it is impossible to remain in the classroom? In a sampling of public data, we will look at this issue and draw comparisons to the national issue.**
 
 Hosting sites associated with this reserch:
 
@@ -32,7 +32,7 @@ Juypter notebook link:  https://github.com/jproctor-rebecca/lambdaprojects/blob/
 
 Source data:  https://github.com/jproctor-rebecca/lambdaprojects/blob/master/teach_geo_merged.csv
 
-In the continued exploration of the question of why teachers are leaving classrooms, we examine using machine learning models whether one environmental factor is highly coorelated to educator feelings about their work environments.  
+**In the continued exploration of the question of why teachers are leaving classrooms, we examine using machine learning models whether one environmental factor is highly coorelated to educator feelings about their work environments.**  
 
 Hosting sites associated with this reserch:
 
@@ -58,7 +58,7 @@ Trello link:
 
 https://trello.com/b/qPFcV5eL/ft-bw-ds-airbnb
 
-Using historical booking data from AirBnB, AirBnB Optimal Price will allow a user to predict the trends for optimal pricing for their properties based on variables such as location, time of year and other considerations. The user will be able to manage multiple properties at different locations and be able to make adjustments to their expectations for booking, as well as what they should be charging.
+**Using historical booking data from AirBnB, AirBnB Optimal Price will allow a user to predict the trends for optimal pricing for their properties based on variables such as location, time of year and other considerations. The user will be able to manage multiple properties at different locations and be able to make adjustments to their expectations for booking, as well as what they should be charging.**
 
 Hosting sites associated with this research:
 
@@ -136,14 +136,13 @@ Trello link:
 
 https://trello.com/b/ui2KAmYe
 
----
+
 **The Business Problem**
 
 **Too many choices can overwhelm users.  If offered too many options, the user may not buy anything.  Streaming services like Spotify have massive catalogs.  Identifying the tracks a user might like and recommending the product they might like is crucicial for their business.**
 
 **To solve this business problem we are going to create two playlists, a Popular Playlist which is then used to identify songs that are similar to a song a user already likes, giving the user a personalized playlist, or recommendations.**
 
----
 Hosting sites associated with this research:
 
 Heroku - https://spotthemusic.herokuapp.com/
@@ -152,7 +151,7 @@ Other repos associated with this research:
 
 https://github.com/Build-Week-Track-Team-7/explore
 
----
+
 Project Contributions, listed by member:
 
 Base Predictive Model
@@ -167,7 +166,7 @@ Plotly DASH Application
 
 -JMaxfield
 
----
+
 Team Members and Roles:
 
 AFarag
@@ -195,7 +194,7 @@ https://jproctor-rebecca.github.io/
 
 https://medium.com/@jproctor.m.ed.tn
 
----
+
 Code Review Team Members:
 
 Alexander Barriga, Taylor Curran, Regina Dircio, Robert Guiffre, Thomas Phillips
@@ -227,14 +226,14 @@ Source data: housed on AWS (private to developers and stakeholders, example hous
 
 [Trello link](https://trello.com/b/NHb1IkeX/labs30asylumteamb)
 
----
+
 **The Business Problem**
 
 **In advocacy of asylum seekers, HRF believes that holding the US government and its judiciary, in particular, accountable to both justice and reform when they "fail to respect human rights and the rule of law" is crucial. HRF shows its detailed plan for advocacy of asylum policy support and change in Chapter 3. Upholding Refugee Protection and Asylum at Home, the third section of the HRF 2021 policy blueprints.**
 
 **In support of upholding refugee and asylum protections, HRF desires an automated tool that will allow immigration attorneys and representatives to contribute to collecting data on judicial asylum decisions and predict the likelihood a judge will render a particular decision based on past judgments.  HRF would also like this tool to be able to showcase underlying patterns in the data.  Current tools available to asylum seeker advocates have outdated information regarding non-sitting judges, have conflicting or missing data within the website, or are generally not user friendly.**
 
----
+
 Hosting sites associated with this research:
 
 ...still in development by additinal teams
@@ -243,7 +242,7 @@ Other repos associated with this research:
 
 https://github.com/LL-rjp/human-rights-first-asylum-ds-b
 
----
+
 Project Contributions, listed by member:
 
 Product Manager
@@ -278,7 +277,7 @@ Data Scientists
 -[RJProctor](https://github.com/jproctor-rebecca), Data Processing, Model, & Visualization
 -[Tomas Phillips](https://github.com/tomasphillips), Data Collection
 
----
+
 Team Members and Roles:
 
 BLopez
