@@ -297,7 +297,7 @@ Andre Michalowski
 
 R. Jeannine Proctor
 
--Data Science Facilitator  -Note Taker
+-DS Trello Facilitator   -DS Facilitator  -Note Taker
 
 ---
 
