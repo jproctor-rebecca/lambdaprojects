@@ -3,7 +3,7 @@ Past and current real world individual and team projects applying data science p
 
 ---
 
-Project 1
+**Project 1
 
 Why are teachers leaving the classroom? 
 
@@ -13,7 +13,7 @@ Source data (zip file): https://github.com/jproctor-rebecca/lambdaprojects/blob/
 
 **National media reports of teachers leaving the classroom in mass. The question is why? What are the key issues that make teachers feel it is impossible to remain in the classroom? In a sampling of public data, we will look at this issue and draw comparisons to the national issue.**
 
-Hosting sites associated with this reserch:
+**Hosting sites associated with this reserch:
 
 1. Medium - https://medium.com/@jproctor.m.ed.tn/why-are-teachers-leaving-the-classroom-749f4af7fb7
 
@@ -24,7 +24,7 @@ Other repos associated with this research:  https://github.com/jproctor-rebecca/
 
 ---
 
-Project 2
+**Project 2
 
 Are Teacher Responses Correlated to the Type of School In Which They Work?
 
@@ -34,7 +34,7 @@ Source data:  https://github.com/jproctor-rebecca/lambdaprojects/blob/master/tea
 
 **In the continued exploration of the question of why teachers are leaving classrooms, we examine using machine learning models whether one environmental factor is highly coorelated to educator feelings about their work environments.**  
 
-Hosting sites associated with this reserch:
+**Hosting sites associated with this reserch:
 
 1. Medium - https://medium.com/@jproctor.m.ed.tn/are-teacher-survey-responses-correlated-with-the-type-of-school-in-which-they-work-cb69b4d4a7a6
 
@@ -44,9 +44,11 @@ Other repos associated with this research:  https://github.com/jproctor-rebecca/
 
 ---
 
-What Price Is Right?
+**Project 3
 
-Colab link(s):
+# What Price Is Right?
+
+**Colab link(s):
 
 Base Model - https://github.com/BuildWeek-AirBnB-Optimal-Price/application/tree/master/notebooks/AirBnB_Optimal_Price_2.ipynb
 
@@ -54,35 +56,35 @@ NLP Model - https://github.com/BuildWeek-AirBnB-Optimal-Price/application/tree/m
 
 Source data (you will need to follow the link and download the zip file): https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml?select=test.csv
 
-Trello link:
+**Trello link:
 
 https://trello.com/b/qPFcV5eL/ft-bw-ds-airbnb
 
 **Using historical booking data from AirBnB, AirBnB Optimal Price will allow a user to predict the trends for optimal pricing for their properties based on variables such as location, time of year and other considerations. The user will be able to manage multiple properties at different locations and be able to make adjustments to their expectations for booking, as well as what they should be charging.**
 
-Hosting sites associated with this research:
+**Hosting sites associated with this research:
 
 Heroku - https://airbnb-rightprice.herokuapp.com/
 
-Other repos associated with this research:
+**Other repos associated with this research:
 
 https://github.com/BuildWeek-AirBnB-Optimal-Price
 
-Project Contributions, listed by member:
+**Project Contributions, listed by member:
 
 Base Predictive Model
 
 -DCohen -MFa -RJProctor
 
-Natural Language Processing Model
+**Natural Language Processing Model
 
 -MFa -EPadilla
 
-Plotly DASH Application
+**Plotly DASH Application
 
 -RJProctor
 
-Team Members and Roles:
+**Team Members and Roles:
 
 Debbie Cohen
 
@@ -110,21 +112,21 @@ https://jproctor-rebecca.github.io/
 
 https://medium.com/@jproctor.m.ed.tn
 
-Code Review Team Members:
+**Code Review Team Members:
 
 Taylor Curran, Regina Dircio, Robert Guffrie, Ryan Herr, Brendon Hoss, Anika Nacey, Thomas Phillips, Raymond Tan, Rebecca Duke-Wiesenberg, Talley Wiesenberg
 
 
 ---
 
-Project 4
+**Project 4
 
 # Spotify Song Suggester
 
 This repo contains the folders and files associated with the deployed Heroku app [Spot The Music!](https://spotthemusic.herokuapp.com/)
 
 
-Colab link(s):
+**Colab link(s):
 
 Base Model - https://github.com/Build-Week-Track-Team-7/explore/blob/main/kmeans_pca_tests.ipynb
 
@@ -143,7 +145,7 @@ https://trello.com/b/ui2KAmYe
 
 **To solve this business problem we are going to create two playlists, a Popular Playlist which is then used to identify songs that are similar to a song a user already likes, giving the user a personalized playlist, or recommendations.**
 
-Hosting sites associated with this research:
+**Hosting sites associated with this research:
 
 Heroku - https://spotthemusic.herokuapp.com/
 
@@ -152,7 +154,7 @@ Other repos associated with this research:
 https://github.com/Build-Week-Track-Team-7/explore
 
 
-Project Contributions, listed by member:
+**Project Contributions, listed by member:
 
 Base Predictive Model
 
@@ -167,7 +169,7 @@ Plotly DASH Application
 -JMaxfield
 
 
-Team Members and Roles:
+**Team Members and Roles:
 
 AFarag
 
@@ -195,7 +197,7 @@ https://jproctor-rebecca.github.io/
 https://medium.com/@jproctor.m.ed.tn
 
 
-Code Review Team Members:
+**Code Review Team Members:
 
 Alexander Barriga, Taylor Curran, Regina Dircio, Robert Guiffre, Thomas Phillips
 
@@ -203,14 +205,14 @@ Alexander Barriga, Taylor Curran, Regina Dircio, Robert Guiffre, Thomas Phillips
 
 
 ---
-Project 
+**Project 5
 
 # Human Rights First - Asylum
 
 The goal is an application to assist immigration attorneys and refugee representatives in advocating for cilents in asylum cases by identifying patterns in judicial decisions and predicting possible outcomes based on those patterns.
 
 
-Colab link(s):
+**Colab link(s):
 
 [Exploratory Scraper 1](https://github.com/LL-rjp/human-rights-first-asylum-ds-b/blob/main/notebooks/PDF2Text.ipynb)
 
@@ -234,7 +236,7 @@ Source data: housed on AWS (private to developers and stakeholders, example hous
 **In support of upholding refugee and asylum protections, HRF desires an automated tool that will allow immigration attorneys and representatives to contribute to collecting data on judicial asylum decisions and predict the likelihood a judge will render a particular decision based on past judgments.  HRF would also like this tool to be able to showcase underlying patterns in the data.  Current tools available to asylum seeker advocates have outdated information regarding non-sitting judges, have conflicting or missing data within the website, or are generally not user friendly.**
 
 
-Hosting sites associated with this research:
+**Hosting sites associated with this research:
 
 ...still in development by additinal teams
 
@@ -243,42 +245,59 @@ Other repos associated with this research:
 https://github.com/LL-rjp/human-rights-first-asylum-ds-b
 
 
-Project Contributions, listed by member:
+**Project Contributions, listed by member:
 
 Product Manager
+
 -Frank Fusco
 
 Engineering Manager
+
 -Ryan Hamblin
 
 Data Science Manager
+
 -Ryan Herr
 
 UX Manager
+
 -David Munson
 
 Associate Project Lead
+
 -Chase Goldfeld
 
 Technical Project Lead
+
 -Ben Lopez 
 
-Web Developers
+**Web Developers
+
 -[David Hays](https://github.com/purplehays09), B/E
+
 -[Melissa Longenberger](https://github.com/melissa-24), F/E
+
 -[Andre Michalowski](https://github.com/andremichalowski), B/E
+
 -[Mark Pekun](https://github.com/slightflow), B/E & F/E
+
 -[Sean Shadle](https://github.com/SeanShadle), B/E
+
 -[Jonathan Warner](https://github.com/jonivander), F/E
 
-Data Scientists
+
+**Data Scientists
+
 -[Sean Byrne](https://github.com/ssbyrne89), B/E
+
 -[Henry Gultom](https://github.com/henryspg), Data Extraction
+
 -[RJProctor](https://github.com/jproctor-rebecca), Data Processing, Model, & Visualization
+
 -[Tomas Phillips](https://github.com/tomasphillips), Data Collection
 
 
-Team Members and Roles:
+**Team Members and Roles:
 
 BLopez
 
