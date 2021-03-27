@@ -309,6 +309,12 @@ In Progress...cross-functional product development team
 
 Project 7
 
+In Progress...professional development project, build an algorithm from scratch
+
+---
+
+Project 8
+
 In Progress...independent contractor, State of Tennessee, Division of Forestry
 
 ---
